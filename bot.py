@@ -104,8 +104,8 @@ def get_server_config(guild_id: int):
                 'dm': True,
                 'warn': True
             },
-            'spam_timeout_minutes': 10,
-            'curse_timeout_minutes': 5
+            'spam_timeout_minutes': 5,
+            'curse_timeout_minutes': 1
         }
     return server_configs[guild_id]
 
