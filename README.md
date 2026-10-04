@@ -1,6 +1,6 @@
 # Alemanti Client — Fabric 1.21.1
 
-Original Lunar-style PvP client. Developer: **svbx**.
+Original Developer: **svbx**.
 
 ## Build the jar (needs Java 21 + internet)
 
