@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "alemanti",
+  "version": "${version}",
+  "name": "Alemanti Client",
+  "description": "An original Fabric PvP client with a customizable HUD, Lunar-style mods and a module menu.",
+  "authors": ["svbx"],
+  "license": "All-Rights-Reserved",
+  "icon": "assets/alemanti/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.alemanti.AlemantiClient"]
+  },
+  "mixins": ["alemanti.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.5",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

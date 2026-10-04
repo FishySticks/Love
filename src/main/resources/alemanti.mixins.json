@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.example.alemanti.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "EntityRendererMixin",
+    "GameRendererMixin",
+    "InGameOverlayRendererMixin",
+    "LivingEntityRendererMixin",
+    "PlayerListHudMixin",
+    "SimpleOptionMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
