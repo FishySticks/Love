@@ -1,6 +1,0 @@
-discord.py>=2.3.2
-PyNaCl
-yt-dlp
-aiohttp
-python-dotenv
-openai>=1.40.0
