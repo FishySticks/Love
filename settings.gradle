@@ -12,4 +12,4 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "svbxcheats"
+rootProject.name = "alemanti-client"
