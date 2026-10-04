@@ -12,4 +12,4 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "LunarStylePvPClient"
+rootProject.name = "svbxcheats"
